@@ -1,2 +1,2 @@
 # DockerFileTests
-A repository for dockerfiles that are used in some of my projects
+A repository that contains Dockerfiles for various container images that I've used.
