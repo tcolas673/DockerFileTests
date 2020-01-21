@@ -14,4 +14,4 @@ RUN npm install --silent
 
 # start app
 EXPOSE 8080
-CMD [ "nodemon", "index.js" ]
+CMD [ "node", "index.js" ]
